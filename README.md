@@ -72,7 +72,7 @@ order by ct.name;
 
 - **Explored Global Trends**: From cities with tiny populations to countries with high life expectancy, the dataset offered fascinating insights.  
 - **Built Strong Queries**: Improved my SQL skills with tasks involving `GROUP BY`, `HAVING`, `JOINS`, and subqueries.  
-- **Mapped Relationships**: Designed an EER diagram to visualize how tables (like country, city, and language) interact.  
+- **Mapped Relationships**: Designed an EER diagram to visualize how tables (like country, city, and language) interact and identified their foreign and primary keys.  
 
 ---
 
@@ -85,4 +85,4 @@ Here’s a sneak peek of my EER Diagram!
 
 ## 🐾 A Little Reflection  
 
-I had so much fun working on this project! It reminded me why I love data and challenging myself 🧩. SQL challenged me to think critically and creatively, and I learned a ton about organizing and analyzing relational databases.  
+I absolutely loved working on this assignment! It reminded me why I’m so passionate about data. I feel incredibly confident with SQL after this challenge and thoroughly enjoyed querying all the data to uncover insights. The process of building queries, experimenting with joins, and exploring the dataset was both rewarding and fun. This project has solidified my love for databases and made me even more excited to tackle future SQL challenges! 💪  
