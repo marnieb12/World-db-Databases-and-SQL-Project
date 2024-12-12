@@ -72,7 +72,7 @@ order by ct.name;
 
 - **Explored Global Trends**: From cities with tiny populations to countries with high life expectancy, the dataset offered fascinating insights.  
 - **Built Strong Queries**: Improved my SQL skills with tasks involving `GROUP BY`, `HAVING`, `JOINS`, and subqueries.  
-- **Mapped Relationships**: Designed an EER diagram to visualize how tables (like country, city, and language) interact and identified their foreign and primary keys.  
+- **Mapped Relationships**: Created an EER diagram to visualize how tables (like country, city, and language) interact and identified their foreign and primary keys.  
 
 ---
 
